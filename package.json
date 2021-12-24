@@ -4,9 +4,7 @@
   "description": "Inspired by [Possibly the Easiest Way to Run An SSG](https://css-tricks.com/possibly-the-easiest-way-to-run-an-ssg/).",
   "main": ".eleventy.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "serve": "eleventy --serve",
-    "build": "eleventy"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
